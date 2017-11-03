@@ -9,7 +9,7 @@ body {
 ul.nav {
   margin: 0;
   padding: 0;
-  background-color: darkred;
+  background-color: purple;
 }
 
 ul.nav li {
@@ -29,7 +29,7 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: darkred;
+  color: purple;
   background-color: #FFF;
   font-weight: bold;
 }
@@ -42,7 +42,7 @@ ul.nav li:hover {
 img {
   border: 10px;
   border-style: solid;
-  border-color: darkred;
+  border-color: purple;
   margin: 0px 40px;
   float: right;
 }
@@ -50,7 +50,7 @@ img {
 table {
   border-width: 0px 0px 5px 0px;
   border-style: solid;
-  border-color: darkred;
+  border-color: purple;
   background: #eee;
   padding: 0px;
   border-spacing: 0px;
@@ -59,7 +59,7 @@ table {
 
 th {
   color: white;
-  background-color: darkred;
+  background-color: purple;
 }
 
 th, td {
@@ -84,5 +84,5 @@ td.uicell {
 }
 
 h1 {
-  color: darkred;
+  color: purple;
 }
