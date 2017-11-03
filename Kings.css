@@ -1,4 +1,4 @@
-* { 
+* {
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -34,7 +34,7 @@ ul.nav li a.active {
   font-weight: bold;
 }
 
-ul.nav li:hover { 
+ul.nav li:hover {
   background-color: #555;
   transition: 0s;
 }
@@ -71,19 +71,18 @@ td.trcell, td.facell, td.uicell {
   font-weight: bold;
 }
 
-td.trcell { 
+td.trcell {
   color: green;
 }
 
-td.facell { 
-  color: red; 
+td.facell {
+  color: red;
 }
 
-td.uicell { 
+td.uicell {
   color: #ffc107;
 }
 
 h1 {
   color: darkred;
 }
-
